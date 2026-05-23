@@ -1,0 +1,10 @@
+*.iml
+.gradle/
+build/
+.idea/
+*.apk
+*.ap_
+*.dex
+local.properties
+.gradle-local/
+gradle-*.zip
